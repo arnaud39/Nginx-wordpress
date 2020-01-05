@@ -1,3 +1,5 @@
+Author : Arnaud Petit
+
 # Nginx-wordpress
 Perfect nginx-wordpress configuration
 
